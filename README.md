@@ -1,7 +1,7 @@
 
 Extension mechanism demo
 ========================
-This is an example of extension mechanism in Angular using lazy loaded modules.
+This is a broken example of extension mechanism in Angular using lazy loaded modules trying to implement Angular CommonModule keywords (*ngIf).
 
 Building the extension
 ----------------------
